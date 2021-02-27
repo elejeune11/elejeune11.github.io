@@ -1,9 +1,9 @@
 # elejeune11.github.io
 
-**Contact:** Emma Lejeune http://sites.bu.edu/lejeunelab/contact/ 
+Contact: Emma Lejeune http://sites.bu.edu/lejeunelab/contact/ 
 If you’re interested in listing your dataset, please get in touch!
 
-**Recommendations: **
+Recommendations:
 *Take advantage of institutional repositories. We prefer to link to a DOI or handle. 
 *Check out: https://www.go-fair.org/fair-principles/
 *Keep file sizes small whenever possible. It is often not necessary to store 100% of your data. 
